@@ -1,0 +1,9 @@
+ADSENSE SETUP
+
+1. Open adsense-config.js
+2. Put your Google AdSense Publisher ID in CLIENT_ID, e.g. ca-pub-XXXXXXXXXXXXXXXX
+3. Put your Ad Unit Slot ID in SLOT_ID.
+4. Save and upload the whole folder.
+
+If you use Auto Ads only, CLIENT_ID is enough; SLOT_ID can stay empty.
+Ads may take time to appear after AdSense approval/configuration.
