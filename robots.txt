@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://tariqtroy.github.io/Packaging-Mindz-CA/sitemap.xml
